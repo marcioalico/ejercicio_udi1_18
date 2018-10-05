@@ -11,5 +11,6 @@ Los PRs se iran mergeando de a uno y luego de cada merge, los grupos restantes d
 ## consignas
 
 * dividir el texto en versos
-* ordenar los objetos por tamaño
-* ordenar los objetos por orden lexicográfico
+* ordenar versos por el tamaño de los objetos mencionados
+* ordenar los versos según el nombre de los objetos objetos mencionados
+* ordenar los versos por longitud
