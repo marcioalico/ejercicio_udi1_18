@@ -1,4 +1,4 @@
-octubre
+﻿octubre
 
 el zenit
 
@@ -102,58 +102,4 @@ las piezas defendidas del sol por cortinas azules
 
 
 
-El pan casero
-el aire en invierno
-los caballos
-el jacarandá florecido
-el amarillo y el moncholo
-los aromos florecidos
-el sol de enero y de febrero
-los ríos espesos y entrecruzados
-las guitarras súbitas
-algún que otro pastizal
-las piezas defendidas del sol por cortinas azules
-los patios regados al atardecer
-las achuras
-las canoas
-el olor de los paraísos
-la arena hirviente
-el humo
-la soledad
-el benteveo
-los perros
-los campos de maíz
-la siesta
-los asados
-el invierno entero
-el barro atormentado de huellas de caballos
-los naranjales
-el fuego
-las mañanas
-el recuerdo
-los domingos
-el zenit
-el esperma
-la tierra
-los detritus
-las ocasiones
-los juegos
-la esperanza
-el sonido
-la madera
-el destierro
-la crecida
-la seca
-los espejismos de agua
-las canoas
-la muerte
-el humus
-el otoño
-la fiebre
-la llovizna
-octubre
-el suelo
-el frío
-los papeles
-las lágrimas
-los nombres
+
