@@ -1,4 +1,4 @@
-﻿octubre
+octubre
 
 el zenit
 
@@ -99,7 +99,3 @@ el barro atormentado de huellas de caballos
 las guitarras súbitas, algún que otro pastizal
 
 las piezas defendidas del sol por cortinas azules
-
-
-
-
